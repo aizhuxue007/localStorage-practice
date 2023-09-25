@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.main-container {
+  width: 100%;
+  height: 100dvh;
+}
+
+.flex {
+  display: flex;
+}
+
+.button-aizhu {
+  background-color: red;
+  margin-right: 2em;
+}
+
+.button-jamie {
+  background-color: lightblue;
+  color: darkblue;
+  margin-right: 2em;
+}
+
+.button-yong {
+  background-color: yellow;
+  color: rgb(118, 122, 0);
+}
